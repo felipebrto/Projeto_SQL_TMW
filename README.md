@@ -4,13 +4,13 @@ Este repositório contém o projeto de Análise de Dados desenvolvido como parte
 O objetivo principal foi aplicar técnicas robustas de limpeza, manipulação, extração e análise para transformar dados brutos de bancos de dados relacionais em insights de valor.
 
 ⚙️ Tecnologias e Ferramentas
-Tecnologia	Finalidade
+
 SQL	Linguagem principal para consultas e manipulação do banco de dados relacional.
 Python	Utilizado em scripts de auxílio (ex: conexão, extração ou visualização de dados).
 VS Code & SQL Lite	Ambiente de desenvolvimento integrado (IDE) e extensão para gerenciar e executar comandos SQL.
 Git & GitHub	Controle de versão e hospedagem do código-fonte do projeto.
-
 Exportar para as Planilhas
+
 🎓 Conceitos e Habilidades Abordadas
 Este projeto serviu para consolidar diversos conceitos fundamentais no mundo da análise de dados e SQL:
 
